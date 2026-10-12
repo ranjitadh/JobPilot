@@ -1,0 +1,22 @@
+{
+  "minimum_score": 70,
+  "minimum_completeness": 55,
+  "max_connects": 10,
+  "hard_connect_limit": false,
+  "reject_unpaid": true,
+  "hourly_usd_floor": 10,
+  "annual_usd_floor": 12000,
+  "fixed_usd_floor": 50,
+  "max_age_days": 30,
+  "hard_age_limit": false,
+  "require_confirmed_eligibility": true,
+  "auto_prepare": true,
+  "auto_prepare_limit": 5,
+  "greenhouse_boards": [],
+  "enabled_sources": [
+    "himalayas",
+    "remotive"
+  ],
+  "himalayas_pages": 3,
+  "senior_roles_require_review": true
+}

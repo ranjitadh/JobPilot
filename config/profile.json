@@ -1,0 +1,153 @@
+{
+  "name": "Ranjit Adhikari",
+  "email": "ranzeet60@gmail.com",
+  "location": "Lalitpur, Nepal",
+  "portfolio": "https://ranjitadhikari.com.np",
+  "github": "https://github.com/ranjitadh",
+  "linkedin": "https://linkedin.com/in/ranjit-adhikari",
+  "years_experience": 4,
+  "skills": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind CSS",
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "REST APIs",
+    "PostgreSQL",
+    "Supabase",
+    "Firebase",
+    "React Native",
+    "Expo"
+  ],
+  "projects": [
+    {
+      "name": "Handsy / GoHandsy",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Django",
+        "REST APIs",
+        "PostgreSQL"
+      ],
+      "fact": "Built marketplace interfaces and Django REST API integrations for authentication, profiles, and service workflows.",
+      "source": "Felt NextJS CV, page 2"
+    },
+    {
+      "name": "DataBrakes",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Django",
+        "PostgreSQL"
+      ],
+      "fact": "Built data upload validation, preview, history, pagination, and table workflows.",
+      "source": "Felt NextJS CV, page 2"
+    },
+    {
+      "name": "Victory Bistro Ultra Lounge",
+      "skills": [
+        "React",
+        "REST APIs"
+      ],
+      "fact": "Developed a cross-platform application with Capacitor and backend REST API integration.",
+      "source": "Felt NextJS CV, page 2"
+    },
+    {
+      "name": "Mock Interview Evaluation System",
+      "skills": [
+        "Python",
+        "Django",
+        "React",
+        "REST APIs"
+      ],
+      "fact": "Built an interview evaluation application using a Django backend, React frontend, and LLM APIs.",
+      "source": "Felt NextJS CV, page 2"
+    },
+    {
+      "name": "Antora",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript"
+      ],
+      "fact": "Built and maintained responsive web interfaces with reusable components.",
+      "source": "Nepal Frontend CV, page 1, retrieved 2026-10-12"
+    }
+  ],
+  "review_notes": [
+    "Confirmed 2026-10-13: 4 years professional + freelance experience per Ranjit_Resume.pdf (source of truth). Review CV before attaching. Education, employment dates and availability are not used for generated claims."
+  ],
+  "resumes": [
+    {
+      "file": "Ranjit_Adhikari_ATS_Master.pdf",
+      "skills": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "React Native",
+        "REST APIs"
+      ],
+      "review_required": true
+    },
+    {
+      "file": "Ranjit_Adhikari_FullStack_Django_React_ATS.pdf",
+      "skills": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "review_required": true
+    },
+    {
+      "file": "Ranjit_Adhikari_Mobile_ReactNative_ATS.pdf",
+      "skills": [
+        "React Native",
+        "Capacitor",
+        "Expo",
+        "Android",
+        "iOS",
+        "REST APIs",
+        "GraphQL",
+        "Supabase"
+      ],
+      "review_required": true
+    },
+    {
+      "file": "Ranjit_Adhikari_Nepal_Frontend_CV.pdf",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "review_required": true
+    },
+    {
+      "file": "Ranjit_Adhikari_Nepal_Fullstack_CV.pdf",
+      "skills": [
+        "Django",
+        "Python",
+        "PostgreSQL",
+        "React",
+        "REST APIs"
+      ],
+      "review_required": true
+    }
+  ],
+  "screening_answers": {},
+  "resume_filename": "Ranjit_Adhikari_Frontend_Developer_Resume.pdf"
+}
